@@ -17,7 +17,9 @@
   size: 10rem;
 }
 
-#dropdownMenuButton1 #dropdownMenuButton2 #dropdownMenuButton3 {
+#dropdownMenuButton1
+#dropdownMenuButton2 
+#dropdownMenuButton3 {
   font-family: "Red Hat Mono", monospace;
 }
 
@@ -119,7 +121,7 @@
   }
 }
 
-/**************Custom Scrollbar*************/
+/***********Custom Scrollbar*************/
 html {
   scrollbar-width: thin;
   scrollbar-color: black transparent;
